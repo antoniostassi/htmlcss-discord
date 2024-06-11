@@ -135,3 +135,29 @@ header .jumbo-container {
     margin:auto;
     margin:1px 10px;
 }
+
+.button.black a {
+    color:white;
+}
+/* -- */
+
+/* Main */
+
+main .container .caption.flex {
+    margin:auto;
+    color:black;
+}
+
+main .container .column40 {
+
+    padding-top:40px;
+}
+
+main .container .column40 h1{
+    font-size:35px;
+}
+
+main .container .column40 p {
+    margin:15px 0px;
+    line-height:25px;
+}
