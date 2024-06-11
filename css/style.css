@@ -95,6 +95,12 @@ a {
     background-repeat:no-repeat;
     padding:40px;
 }
+
+.rotate180 {
+    rotate:180deg;
+}
+
+
 /* Header */
 
 header {
@@ -187,8 +193,7 @@ main .container .column40 p {
 }
 
 main .container {
-    margin-top:60px;
-    opacity:1;
+    margin-top:0;
 }
 
 main .jumbo-container{
@@ -218,7 +223,16 @@ main .jumbo-container .button a {
     color:white;
 }
 
+main .wave {
+    background-color:white;
+    height: 99px;
+}
 
+main .wave img {
+    
+    width:100%;
+    filter: invert(85%) sepia(27%) saturate(2%) hue-rotate(153deg) brightness(123%) contrast(93%);
+}
 
 /* -- */
 /* Footer */

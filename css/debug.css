@@ -54,3 +54,8 @@
     border:1px solid black;
     width:100%;
 }
+
+.debug.true .wave {
+
+    background-color: red;
+}
