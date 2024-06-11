@@ -169,6 +169,7 @@ header .jumbo-container {
 
 main .container .caption.flex {
     color:black;
+    margin-bottom:20px;
 }
 
 main .container .column40 {
