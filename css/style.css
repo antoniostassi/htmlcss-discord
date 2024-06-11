@@ -125,6 +125,11 @@ header .jumbo-container {
     padding-top:100px;
 }
 
+.jumbo-container h1{
+    font-size:45px;
+    margin-bottom:30px;
+}
+
 .jumbo-container p {
     margin:10px 20px;
     line-height:30px;
@@ -160,4 +165,9 @@ main .container .column40 h1{
 main .container .column40 p {
     margin:15px 0px;
     line-height:25px;
+}
+
+main .container {
+    margin-top:50px;
+    opacity:1;
 }
