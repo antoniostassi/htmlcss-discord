@@ -76,6 +76,25 @@ a {
 .light-gray {
     background-color:#F6F6F6;
 }
+
+.blue {
+    background-color: #7289DA;
+    color:white;
+}
+
+.jumbo-container{
+    width:60%;
+    margin:auto;
+}
+
+.stars {
+    background-image:url('../img/stars.svg');
+    margin:auto;
+    max-width:max-content;
+    background-size:contain;
+    background-repeat:no-repeat;
+    padding:40px;
+}
 /* Header */
 
 header {
@@ -118,10 +137,10 @@ header .bottomheader{
     background-repeat:no-repeat;
 }
 
+
+
 header .jumbo-container {
     text-align:center;
-    width:60%;
-    margin:auto;
     padding-top:50px;
 }
 
@@ -171,3 +190,31 @@ main .container {
     margin-top:60px;
     opacity:1;
 }
+
+main .jumbo-container{
+    margin-top:60px;
+    color:black;
+    text-align:center;
+    width:100%;
+}
+
+main .jumbo-container h1{
+    font-size:40px;
+}
+
+main .jumbo-container img {
+    width:100%;
+    margin-bottom:60px;
+}
+
+main .jumbo-container .button {
+    margin-top:20px;
+    margin-bottom:100px;
+    padding:15px 20px;
+    
+}
+
+main .jumbo-container .button a {
+    color:white;
+}
+

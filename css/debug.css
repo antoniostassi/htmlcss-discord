@@ -39,3 +39,12 @@
     border:1px solid black;
     min-height:100px;
 }
+
+.debug.true main .jumbo-container {
+    border: 1px solid black;
+}
+
+.debug.true main .jumbo-container img {
+    border:1px solid black;
+    width:100%;
+}
