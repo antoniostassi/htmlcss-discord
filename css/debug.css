@@ -5,7 +5,7 @@
 
 .debug.true .container {
     margin:auto;
-    border:1px dashed white;
+    border:1px dashed black;
     /* min-height:50px; */
 }
 
@@ -26,7 +26,13 @@
 .debug.true .column40{
     border:1px solid black;
 }
-
+.debug.true .column30{
+    border:1px solid red;
+}
+.debug.true .column70{
+    border:1px solid pink;
+    min-height:100px;
+}
 .debug.true .bottomheader {
     border:1px solid white;
 }

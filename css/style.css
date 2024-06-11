@@ -168,7 +168,6 @@ header .jumbo-container {
 /* Main */
 
 main .container .caption.flex {
-    margin:auto;
     color:black;
 }
 
@@ -223,4 +222,43 @@ main .jumbo-container .button a {
 
 footer {
     background-color:#23272A;
+}
+
+.topfooter {
+    padding:70px 50px ; 
+    padding-bottom:25px;
+}
+footer h3 {
+    font-size:30px;
+    margin-bottom:25px;
+}
+
+footer .column30 img {
+    width:5%;
+}
+
+footer .column30 span {
+    font-size:14px;
+}
+
+footer .social {
+    margin-top:15px;
+}
+
+footer .column25 ul {
+    list-style-type: none;
+    padding:0;
+    margin:0;
+}
+
+footer .column25 li {
+    padding:10px;
+}
+
+footer .column25 li a{
+    color:white;
+}
+
+footer .column25 ul li:first-child a, footer h3 {
+    color:#7289DA;
 }
