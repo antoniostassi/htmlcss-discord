@@ -245,6 +245,11 @@ footer .column30 span {
 footer .social {
     margin-top:15px;
 }
+footer .social a {
+    color:white;
+    padding:10px;
+    padding-left:0px;
+}
 
 footer .column25 ul {
     list-style-type: none;
