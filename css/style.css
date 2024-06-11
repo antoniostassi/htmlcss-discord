@@ -262,3 +262,13 @@ footer .column25 li a{
 footer .column25 ul li:first-child a, footer h3 {
     color:#7289DA;
 }
+
+footer .bottomfooter .row.flex {
+    padding:10px;
+    width:100%;
+    justify-content:space-between;
+}
+
+footer .bottomfooter .row.flex a{
+    color:white;
+}
