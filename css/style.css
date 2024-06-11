@@ -73,15 +73,15 @@ a {
     color:white;
 }
 
+.light-gray {
+    background-color:#F6F6F6;
+}
 /* Header */
 
 header {
     background-color:#255EE9;
 }
 
-header .column25 img {
-
-}
 header .topheader {
     padding:10px;
 }
@@ -168,6 +168,6 @@ main .container .column40 p {
 }
 
 main .container {
-    margin-top:50px;
+    margin-top:60px;
     opacity:1;
 }
