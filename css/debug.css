@@ -1,0 +1,29 @@
+
+.debug.true header {
+    min-height:100px;
+}
+
+.debug.true .container {
+    margin:auto;
+    border:1px dashed white;
+    /* min-height:50px; */
+}
+
+.debug.true .container .topheader{
+    border:1px solid white;
+}
+
+.debug.true .column25{
+    border:1px solid white;
+}
+.debug.true .column50{
+    border:1px solid white;
+}
+
+.debug.true .bottomheader {
+    border:1px solid white;
+}
+
+.debug.true header .jumbo-container {
+    border:1px solid white;
+}
